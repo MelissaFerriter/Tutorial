@@ -2,82 +2,82 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Hitchhiker&#39;s Guide to Case Management</title>
-    <link>/</link>
+    <link>/casemanagement.netlify.app/</link>
     <description>Recent content on The Hitchhiker&#39;s Guide to Case Management</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2016 20:23:59 +0530</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Nov 2016 20:23:59 +0530</lastBuildDate><atom:link href="/casemanagement.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Phone Calls 101</title>
-      <link>/courses/phonecalls101/</link>
+      <link>/casemanagement.netlify.app/courses/phonecalls101/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>/courses/phonecalls101/</guid>
+      <guid>/casemanagement.netlify.app/courses/phonecalls101/</guid>
       <description>&lt;p&gt;When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Emails 101</title>
-      <link>/courses/emails101/</link>
+      <link>/casemanagement.netlify.app/courses/emails101/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>/courses/emails101/</guid>
+      <guid>/casemanagement.netlify.app/courses/emails101/</guid>
       <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Collaborating 101</title>
-      <link>/courses/collaborating101/</link>
+      <link>/casemanagement.netlify.app/courses/collaborating101/</link>
       <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
       
-      <guid>/courses/collaborating101/</guid>
+      <guid>/casemanagement.netlify.app/courses/collaborating101/</guid>
       <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Case Summaries 101</title>
-      <link>/courses/casesummaries101/</link>
+      <link>/casemanagement.netlify.app/courses/casesummaries101/</link>
       <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
       
-      <guid>/courses/casesummaries101/</guid>
+      <guid>/casemanagement.netlify.app/courses/casesummaries101/</guid>
       <description>&lt;p&gt;Case summaries help other analysts looking through your case quickly see your troubleshooting steps, enviornment, and conclusion. If their customer is having a similar issue, a good case summary can save them a lot of time. Detailing what didn&amp;rsquo;t work for you is often as important as detailing what did work.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>test</title>
-      <link>/workflow/</link>
+      <title>Course Workflow Basics</title>
+      <link>/casemanagement.netlify.app/workflow/</link>
       <pubDate>Thu, 05 Nov 2020 21:05:33 +0530</pubDate>
       
-      <guid>/workflow/</guid>
+      <guid>/casemanagement.netlify.app/workflow/</guid>
       <description>There are so many ways to manage your cases in Saleforce, but here is a basic workflow that you can adapt to fit your style over time!
-Overview  Make initial contact, either over the phone or through email If contact was made over the phone log your phone call Send a call follow-up email detailing what you discussed and your next steps Create a case post with your call notes  An sincerity so extremity he additions.</description>
+Overview  Make initial contact, either over the phone or through email If contact was made over the phone, log your phone call Send a call follow-up email detailing what you discussed and your next steps Create a case post with your call notes  Log a Call </description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>/testt/</link>
+      <link>/casemanagement.netlify.app/testt/</link>
       <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
       
-      <guid>/testt/</guid>
+      <guid>/casemanagement.netlify.app/testt/</guid>
       <description>An sincerity so extremity he additions. Her yet there truth merit. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
 Received overcame oh sensible so at an. Formed do change merely to county it. Am separate contempt domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too.</description>
     </item>
     
     <item>
       <title>WDE 101</title>
-      <link>/courses/wde101/</link>
+      <link>/casemanagement.netlify.app/courses/wde101/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>/courses/wde101/</guid>
+      <guid>/casemanagement.netlify.app/courses/wde101/</guid>
       <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <link>/casemanagement.netlify.app/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>/casemanagement.netlify.app/post/2015-07-23-r-rmarkdown/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
