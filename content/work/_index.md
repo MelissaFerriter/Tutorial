@@ -5,11 +5,11 @@ title: Case Workflow 101
  
 There are so many ways to manage your cases in Saleforce, but here is a basic workflow that you can adapt to fit your style over time!  
 
-Overview
-1. Make initial contact. If the case was received over email, proceed to   
-2. Log your phone call 
-3. Send a follow-up email
-4. Create a case post with your call notes
+### Overview
+1. Make initial contact, either over the phone or through email  
+2. If contact was made over the phone log your phone call 
+3. Send a call follow-up email detailing what you discussed and your next steps
+4. Create a case post with your call notes 
 
 An sincerity so extremity he additions. Her yet **there truth merit**. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
 
