@@ -45,10 +45,6 @@ googleAnalytics = ""
   home = true
 
   [[params.navlinks]]
-  name = "Workflow"
-  url = "work/"
-  home=true
-
- 
-
-
+  name = "Case Workflow"
+  url = "workflow/"
+  
