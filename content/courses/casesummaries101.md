@@ -8,7 +8,7 @@ weight: 11
 ---
  
 Case summaries help other analysts looking through your case quickly see your troubleshooting steps, enviornment, and conclusion. If their customer is having a similar issue, a good case summary can save them a lot of time. Detailing what didn't work for you is often as important as detailing what did work. 
-<!--more-->
+<!--more--> 
 
 #### **Essential Elements**
 * Description of the issue
