@@ -2,7 +2,7 @@
 date: "2016-11-05T21:05:33+05:30"
 title: Case Workflow 101
 ---
-
+ 
 There are so many ways to manage your cases in Saleforce, but here is a basic workflow that you can adapt to fit your style over time!  
 
 Overview
