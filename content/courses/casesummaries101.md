@@ -29,7 +29,7 @@ It includes sections for:
 * Documentation
 * Next Steps
 
->This case #02644500 below went on for quite some time, which is why my case summary is long. Notice that I included the version of ArcGIS Online, the Collector app, and the customer's mobile device. This environment definition is important for anyone who may be trying to reproduce the issue. 
+This case #02644500 below went on for quite some time, which is why my case summary is long. Notice that I included the version of ArcGIS Online, the Collector app, and the customer's mobile device. This environment definition is important for anyone who may be trying to reproduce the issue. 
 
 ![3]
 
