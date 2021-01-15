@@ -1,4 +1,4 @@
-baseurl = "https://gallant-beaver-6fefc5.netlify.app"
+baseurl = "https://example.org/"
 title = "The Hitchhiker's Guide to Case Management"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
