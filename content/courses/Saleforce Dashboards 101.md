@@ -1,13 +1,13 @@
 ---
-date: "2016-11-05T19:44:32+05:30"
+date: "2016-11-05T18:25:22+05:30"
 draft: false
-image: img/portfolio/email.png
-showonlyimage: false
-title: Emails 101 
-weight: 3
----
-  
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+image: img/portfolio/sf2.png
+showonlyimage: false  
+title: Salesforce Dashboards 101
+weight: 5
+--- 
+
+Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
