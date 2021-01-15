@@ -7,7 +7,7 @@ title: Case Summaries 101
 weight: 11
 ---
  
->Case summaries help other analysts looking through your case quickly see your troubleshooting steps, enviornment, and conclusion. If their customer is having a similar issue, a good case summary can save them a lot of time. Detailing what didn't work for you is often as important as detailing what did work. 
+Case summaries help other analysts looking through your case quickly see your troubleshooting steps, enviornment, and conclusion. If their customer is having a similar issue, a good case summary can save them a lot of time. Detailing what didn't work for you is often as important as detailing what did work. 
 <!--more-->
 
 #### **Essential Elements**
@@ -29,10 +29,12 @@ It includes sections for:
 * Documentation
 * Next Steps
 
+>This case #02644500 below went on for quite some time, which is why my case summary is long. Notice that I included the version of ArcGIS Online, the Collector app, and the customer's mobile device. This environment definition is important for anyone who may be trying to reproduce the issue. 
+
+![3]
+
 >I like to continually update the same post as the case progresses by selecting the option to "edit in chatter". Before I close my case out, I will copy the post and paste it into a brand new post so that it is at the very top of the case feed. I will then usually delete the old post to avoid having a duplicate. Customers will occassionally reopen old cases, so the case summary can also serve as a reminder of where you left off.
 
-This case #02644500 went on for quite some time so you can see that my case summary is quite long. 
-![3]
 
 [2]: /img/post.gif
 [3]: /img/longpost.gif
