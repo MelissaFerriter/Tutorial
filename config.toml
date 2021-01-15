@@ -1,4 +1,4 @@
-baseurl = "casemanagement.netlify.app"
+baseurl = "https://casemanagement.netlify.app"
 title = "The Hitchhiker's Guide to Case Management"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
