@@ -1,19 +1,86 @@
 ---
 date: "2020-11-05T21:05:33+05:30"
-title: Course Workflow Basics
+title: Case Workflow Basics
 ---
   
 There are so many ways to manage your cases in Saleforce, but here is a basic workflow that you can adapt to fit your style over time!   
 
-### Overview
+## Overview
 
 * Make initial contact, either over the phone or through email  
 * If contact was made over the phone, log your phone call 
 * Send a call follow-up email detailing what you discussed and your next steps
-* Create a case post with your call notes  
+* Create a case post with your call notes
+* Work on the issue: research, test, reach out to your customer, collaborate, and resolve
+* Confirm that you can close the case over a phone call or email
+* Write your case summary
+* Update the case title
+* Update the technical details
+* Categorize the case
+* Close  
+  
 
-#### Log a Call
+  
+#### 1. Make Initial Contact
+
+##### Phone
+>"Hi this is __ , am I speaking with __? "
+
+##### Email
+>"Thank you for contacting Esri Support. My name is __, and I have taken ownership of your case #xxxxxxx and will be assisting you to a resolution.
+I understand you are experiencing some challenges with __."
+
+
+#### 2. Log a Call
 
 ![4]
 
+>Keep in mind that the customer can see what you post in the call log. Some common details to include are whether a screenshare was performed, the duration of the call, and if the call came in over SPEC.
+
+#### 3. Send a Follow-Up Email
+
+![5]
+
+>A good follow up email will contain a summary of what was discussed and any related documentation that would be helpful to the customer. Be sure to include your contact information in the email after a first phone call. 
+
+#### 4. Post Your Call Notes
+
+![6]
+
+>A call notes post is like a stream of consciousness recollection of everything that happened during the call. 
+
+#### 5. Confirm That You Can Close the Case
+
+![7]
+
+>Reach out the customer, either over the phone or email, and confirm that they have no further questions and would like to close the case. If you are closing from non-response, the rule of thumb is to reach out 3 times over email and twice over the phone before sending them an email stating you are closing the case. You can also give the customer the option to "temporarily close" and then reopen when they have more time for troubleshooting. 
+
+#### 6. Write Your Case Summary
+
+![8]
+
+#### 7. Update the Case Title
+
+![9]
+
+#### 8. Update the Technical Details
+
+![10]
+
+#### 9. Categorize the Case
+
+![11]
+
+#### 10. Close the Case
+
+![12]
+
 [4]: /img/call.gif
+[5]: /img/aftercall.gif
+[6]: /img/callnotes.png
+[7]: /img/close1.gif
+[8]: /img/post2.gif
+[9]: /img/title.gif
+[10]: /img/tech.gif
+[11]: /img/cat.gif
+[12]: /img/close2.gif

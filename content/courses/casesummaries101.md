@@ -20,7 +20,7 @@ Case summaries help other analysts looking through your case quickly see your tr
 
 ![2]
 
-It includes sections for:  
+It includes sections for:
 * Issue  
 * Environment
 * Testing/Research
@@ -35,4 +35,4 @@ This case #02644500 below went on for quite some time, which is why my case summ
  
 
 [2]: /img/post.gif
-[3]: /img/longpost.gif
+[3]: /img/post2.gif
