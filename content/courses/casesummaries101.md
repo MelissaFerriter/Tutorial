@@ -21,7 +21,7 @@ Case summaries help other analysts looking through your case quickly see your tr
 ![2]
 
 It includes sections for:
-* Issue  
+* Issue
 * Environment
 * Testing/Research
 * Documentation
