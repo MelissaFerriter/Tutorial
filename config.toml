@@ -27,7 +27,7 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "you@yoursite.com"
+  email = "mferriter@esri.com"
 
     # Optional Matomo analytics (formerly piwik)
       # [params.analytics.matomo]
@@ -48,7 +48,15 @@ googleAnalytics = ""
   name = "Course Workflow"
   url = "workflow/"
   
+    [[params.navlinks]]
+  name = "Resources"
+  url = "resources/" 
+  
    [[params.navlinks]]
   name = "FAQ"
   url = "faq/" 
+  
+  [[params.navlinks]]
+  name = "Contact"
+  url = "contact/" 
   
