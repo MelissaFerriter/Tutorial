@@ -11,7 +11,7 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "default"
-  copyright = "&copy;2021 Team 4"
+  copyright = "&copy;2021 Team 4 | Melissa Ferriter"
   sidebarAbout = [
     "A guide for new ArcGIS Online Analysts"
   ]
@@ -55,5 +55,9 @@ googleAnalytics = ""
    [[params.navlinks]]
   name = "FAQ"
   url = "faq/" 
+  
+  [[params.navlinks]]
+  name = "Documentation"
+  url = "documentation/"
 
   
