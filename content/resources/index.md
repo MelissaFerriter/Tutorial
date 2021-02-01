@@ -13,6 +13,7 @@ title: Resources
 * [Sample Server 6](http://sampleserver6.arcgisonline.com/arcgis/rest/services)
 * [ArcGIS Analysts Calendar](https://esriis.sharepoint.com/teams/EsriSupportServicesDomestic/Absences/Lists/arcgiscal/AllCategories.aspx)
 * [SPEC Exceptions Request](https://esriis.sharepoint.com/teams/ArcGISUnitAnalysts/SitePages/Spec-Exceptions.aspx) 
+* [ESS Device Checkout](http://essapps.esri.com/devices)
 
 
 
