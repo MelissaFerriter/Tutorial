@@ -75,8 +75,7 @@ I understand you are experiencing some challenges with __."
 
 ![10]
 
->Here you will need to fill out the product and product version that is the main focus of the issue. 
-
+>Here you will need to fill out the product and product version.
 #### 10. Categorize the Case
 
 ![11]
