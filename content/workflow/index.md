@@ -11,7 +11,7 @@ There are so many ways to manage your cases in Saleforce, but here is a basic wo
 * If contact was made over the phone, log your phone call 
 * Send a call follow-up email detailing what you discussed and your next steps
 * Create a case post with your call notes
-* Work on the issue: research, test, reach out to your customer, collaborate, and resolve
+* Troubleshoot the issue: research, test, reach out to your customer, collaborate, and resolve
 * Confirm that you can close the case over a phone call or email
 * Write your case summary
 * Update the case title
@@ -49,29 +49,33 @@ I understand you are experiencing some challenges with __."
 
 >A call notes post is like a stream of consciousness recollection of everything that happened during the call. 
 
-#### 5. Confirm That You Can Close the Case
+#### 5. Troubleshoot the Issue
+
+>Coming to a resolution often involves a lot of research, testing, and collaborating. Start by searching for similar cases, defects, or knowledge article in Salesforce. It is always a good idea to utilize the epxertise of your colleagues as well by reaching out over Teams or posting in the SWARM groups in Salesforce. 
+
+#### 6. Confirm That You Can Close the Case
 
 ![7]
 
 >Reach out the customer, either over the phone or email, and confirm that they have no further questions and would like to close the case. If you are closing from non-response, the rule of thumb is to reach out 3 times over email and twice over the phone before sending them an email stating you are closing the case. You can also give the customer the option to "temporarily close" and then reopen when they have more time for troubleshooting. 
 
-#### 6. Write Your Case Summary
+#### 7. Write Your Case Summary
 
 ![8]
 
-#### 7. Update the Case Title
+#### 8. Update the Case Title
 
 ![9]
 
-#### 8. Update the Technical Details
+#### 9. Update the Technical Details
 
 ![10]
 
-#### 9. Categorize the Case
+#### 10. Categorize the Case
 
 ![11]
 
-#### 10. Close the Case
+#### 11. Close the Case
 
 ![12]
 

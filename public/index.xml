@@ -68,7 +68,16 @@
       
       <guid>/workflow/</guid>
       <description>There are so many ways to manage your cases in Saleforce, but here is a basic workflow that you can adapt to fit your style over time!
-Overview  Make initial contact, either over the phone or through email If contact was made over the phone, log your phone call Send a call follow-up email detailing what you discussed and your next steps Create a case post with your call notes Work on the issue: research, test, reach out to your customer, collaborate, and resolve Confirm that you can close the case over a phone call or email Write your case summary Update the case title Update the technical details Categorize the case Close  1.</description>
+Overview  Make initial contact, either over the phone or through email If contact was made over the phone, log your phone call Send a call follow-up email detailing what you discussed and your next steps Create a case post with your call notes Troubleshoot the issue: research, test, reach out to your customer, collaborate, and resolve Confirm that you can close the case over a phone call or email Write your case summary Update the case title Update the technical details Categorize the case Close  1.</description>
+    </item>
+    
+    <item>
+      <title>Frequently Asked Questions</title>
+      <link>/faq/</link>
+      <pubDate>Thu, 05 Nov 2020 21:05:33 +0530</pubDate>
+      
+      <guid>/faq/</guid>
+      <description>1. Question Example? Answer example</description>
     </item>
     
   </channel>

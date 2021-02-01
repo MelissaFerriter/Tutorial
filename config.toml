@@ -48,3 +48,7 @@ googleAnalytics = ""
   name = "Course Workflow"
   url = "workflow/"
   
+   [[params.navlinks]]
+  name = "FAQ"
+  url = "faq/" 
+  
