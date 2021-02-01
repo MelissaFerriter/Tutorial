@@ -55,8 +55,5 @@ googleAnalytics = ""
    [[params.navlinks]]
   name = "FAQ"
   url = "faq/" 
-  
-  [[params.navlinks]]
-  name = "Contact"
-  url = "contact/" 
+
   
