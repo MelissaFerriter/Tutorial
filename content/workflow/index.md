@@ -7,17 +7,17 @@ There are so many ways to manage your cases in Saleforce, but here is a basic wo
 
 ## Overview
 
-* Make initial contact, either over the phone or through email  
-* If contact was made over the phone, log your phone call 
-* Send a call follow-up email detailing what you discussed and your next steps
-* Create a case post with your call notes
-* Troubleshoot the issue: research, test, reach out to your customer, collaborate, and resolve
-* Confirm that you can close the case over a phone call or email
-* Write your case summary
-* Update the case title
-* Update the technical details
-* Categorize the case
-* Close  
+* [Make initial contact, either over the phone or through email](#1-make-initial-contact)  
+* [If contact was made over the phone, log your phone call](#2-log-a-call) 
+* [Send a call follow-up email detailing what you discussed and your next steps](#3-send-a-follow-up-email)
+* [Create a case post with your call notes](#4-post-your-call-notes) 
+* [Troubleshoot the issue: research, test, reach out to your customer, collaborate, and resolve](#5-troubleshoot-the-issue) 
+* [Confirm that you can close the case over a phone call or email](#6-confirm-that-you-can-close-the-case) 
+* [Write your case summary](#7-write-your-case-summary) 
+* [Update the case title](#8-update-the-case-title) 
+* [Update the technical details](#9-update-the-technical-details) 
+* [Categorize the case](#10-categorize-the-case) 
+* [Close](#11-close-the-case) 
   
 
   
@@ -63,21 +63,31 @@ I understand you are experiencing some challenges with __."
 
 ![8]
 
+>The case summary should ideally be the last post in the case and should detail the issue, environment, troublshooting approach, documentation, and resolution.
+
 #### 8. Update the Case Title
 
 ![9]
+
+>Always update the case title before closing out the case. Often the issue changes over time and the original title may not accurately capture the case topic. 
 
 #### 9. Update the Technical Details
 
 ![10]
 
+>Here you will need to fill out the product and product version that is the main focus of the issue. 
+
 #### 10. Categorize the Case
 
 ![11]
 
+>When you categorize a case you will need to fill out the product area, functionality, and issue. 
+
 #### 11. Close the Case
 
 ![12]
+
+>To close a case, you will need to select a Primary Resolution and Secondary Resolution.
 
 [4]: /img/call.gif
 [5]: /img/aftercall.gif
