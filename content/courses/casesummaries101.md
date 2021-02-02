@@ -23,7 +23,7 @@ Case summaries help other analysts looking through your case quickly see your tr
 It includes sections for:
 * Issue
 * Environment
-* Testing/Research
+* Testing and Research
 * Documentation
 * Next Steps
 
