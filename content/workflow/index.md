@@ -63,14 +63,13 @@ I understand you are experiencing some challenges with __."
 
 ![8]
 
->The case summary should ideally be the last post in the case and should detail the issue, environment, troublshooting approach, documentation, and resolution.
+>The case summary should ideally be the last post in the case and should detail the issue, environment, troublshooting approach, documentation, and resolution. See [Case Summaries 101](/courses/casesummaries101) for more details
 
 #### 8. Update the Case Title
 
 ![9]
 
->Always update the case title before closing out the case. Often the issue changes over time and the original title may not accurately capture the case topic. See [Case Summaries 101](/courses/casesummaries101) for more details
-casemanagement.netlify.app/courses/casesummaries101
+>Always update the case title before closing out the case. Often the issue changes over time and the original title may not accurately capture the case topic. 
 
 #### 9. Update the Technical Details
 
