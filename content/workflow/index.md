@@ -69,7 +69,7 @@ I understand you are experiencing some challenges with __."
 
 ![9]
 
->Always update the case title before closing out the case. Often the issue changes over time and the original title may not accurately capture the case topic. 
+>Always update the case title before closing out the case. Often the issue changes over time and the original title may not accurately capture the case topic. See [Case Summaries 101](casemanagement.netlify.app/courses/casesummaries101) for more details
 
 #### 9. Update the Technical Details
 
