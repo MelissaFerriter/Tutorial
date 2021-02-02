@@ -93,7 +93,7 @@ I understand you are experiencing some challenges with __."
 [5]: /img/aftercall.gif
 [6]: /img/callnotes.png
 [7]: /img/close1.gif
-[8]: /img/post2.gif
+[8]: /img/post3.gif
 [9]: /img/title.gif
 [10]: /img/tech.gif
 [11]: /img/cat.gif

@@ -27,12 +27,13 @@ It includes sections for:
 * Documentation
 * Next Steps
 
-This case #02644500 below went on for quite some time, which is why my case summary is long. Notice that I included the version of ArcGIS Online, the Collector app, and the customer's mobile device. This environment information is important for anyone who may be trying to reproduce the issue. 
+![Case #02681837][3]
 
-![3]
+
 
 >I like to continually update the same post as the case progresses by selecting the option to "edit in chatter". Before I close my case out, I will copy the post and paste it into a brand new post so that it is at the very top of the case feed. I will then usually delete the old post to avoid having a duplicate. Customers will occassionally reopen old cases, so the case summary can also serve as a reminder of where you left off.
  
 
 [2]: /img/post.gif
-[3]: /img/post2.gif
+[3]: /img/post3.gif
+[13]: /img/post1.png 
