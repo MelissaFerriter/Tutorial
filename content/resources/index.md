@@ -14,6 +14,7 @@ title: Resources
 * [ArcGIS Analysts Calendar](https://esriis.sharepoint.com/teams/EsriSupportServicesDomestic/Absences/Lists/arcgiscal/AllCategories.aspx)
 * [SPEC Exceptions Request](https://esriis.sharepoint.com/teams/ArcGISUnitAnalysts/SitePages/Spec-Exceptions.aspx) 
 * [ESS Device Checkout](http://essapps.esri.com/devices)
+* [Scope of Support](https://support.esri.com/en/supportscope)
 
 
 
