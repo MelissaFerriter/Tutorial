@@ -20,7 +20,7 @@ Case summaries help other analysts looking through your case quickly see your tr
 
 ![2]
 
-It includes sections for
+##### It includes sections for
 * Issue
 * Environment
 * Testing and Research
