@@ -44,15 +44,6 @@
     </item>
     
     <item>
-      <title>Salesforce Dashboards 101</title>
-      <link>/courses/saleforce-dashboards-101/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
-      <guid>/courses/saleforce-dashboards-101/</guid>
-      <description>&lt;p&gt;Test&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>WDE 101</title>
       <link>/courses/wde101/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
@@ -77,7 +68,8 @@ Overview  Make initial contact, either over the phone or through email If contac
       <pubDate>Thu, 05 Nov 2020 21:05:33 +0530</pubDate>
       
       <guid>/faq/</guid>
-      <description>1. Question Example? Answer example</description>
+      <description>1. If I have a technical issue with my computer or WDE who do I go to? Log a service ticket by going to esri.okta.com and selecting the ServiceNow icon
+2. If ? </description>
     </item>
     
     <item>
