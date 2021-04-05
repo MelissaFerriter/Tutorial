@@ -1,6 +1,10 @@
 ---
 date: "2020-11-05T21:05:33+05:30"
 title: Resources
+output:
+  blogdown::html_page:
+    toc: false
+runtime: shiny
 ---
   
 ##### 
@@ -16,3 +20,5 @@ title: Resources
 * [ESS Device Checkout](http://essapps.esri.com/devices)
 * [Scope of Support](https://support.esri.com/en/supportscope)
 
+<iframe height="800" width="100%" frameborder="no" src="https://antoinesoetewey.shinyapps.io/statistics-201/"> </iframe>
+ 

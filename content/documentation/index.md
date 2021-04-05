@@ -9,12 +9,9 @@ title: Resources
 * [Product Life Cycle](https://support.esri.com/en/other-resources/product-life-cycle)
 * [Perfecto Mobile](https://www.perfecto.io/)
 * [ArcGIS Online Security Advisor](https://s3.amazonaws.com/ago-security-advisor/index.html#)
+* [ArcGIS Online Assistant](ago-assistant.com)
 * [ArcGIS Online Health Dashboard](https://status.arcgis.com/)
 * [Sample Server 6](http://sampleserver6.arcgisonline.com/arcgis/rest/services)
 * [ArcGIS Analysts Calendar](https://esriis.sharepoint.com/teams/EsriSupportServicesDomestic/Absences/Lists/arcgiscal/AllCategories.aspx)
 * [SPEC Exceptions Request](https://esriis.sharepoint.com/teams/ArcGISUnitAnalysts/SitePages/Spec-Exceptions.aspx) 
-
-
-
-
 
